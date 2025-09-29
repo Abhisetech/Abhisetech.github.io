@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Abhi-Blog</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Abhi-Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;h1 id=&#34;get-in-touch&#34;&gt;Get In Touch&lt;/h1&gt;&#xA;&lt;p&gt;Feel free to reach out to me through any of these platforms:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:iamabhirudra@gmail.com&#34;&gt;iamabhirudra@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;GitHub&lt;/strong&gt;: &lt;a href=&#34;https://github.com/Abhisetech&#34;&gt;github.com/Abhisetech&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;LinkedIn&lt;/strong&gt;: &lt;a href=&#34;https://linkedin.com/in/abhijeet-kumar&#34;&gt;linkedin.com/in/abhijeet-kumar&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;I&amp;rsquo;m always open to discussing new projects, creative ideas, or opportunities to be part of your vision.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>My First Blog Post</title>
+      <link>http://localhost:1313/posts/my-first-blog-post/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/my-first-blog-post/</guid>
+      <description>This is my first blog post using Hugo and Obsidian</description>
+    </item>
+  </channel>
+</rss>

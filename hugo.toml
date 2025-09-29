@@ -1,0 +1,56 @@
+baseURL = 'https://Abhisetech.github.io/'
+languageCode = 'en-us'
+title = 'Abhi-Blog'
+theme = 'paper'
+
+[params]
+  author = 'Abhi'
+  description = 'Blog testing'
+  
+  # Social links
+  github = 'Abhisetech'
+  linkedin = 'abhijeet-kumar'
+  email = 'iamabhirudra@gmail.com'
+  
+  # Display settings
+  homeMode = 'post'
+  showSummary = true
+  showTags = true
+  showPagination = true
+  showCodeCopyButtons = true
+  
+  # Theme appearance
+  defaultTheme = 'auto'
+  backToTop = true
+  
+  # Post navigation
+  postNavigation = 'post'
+
+# Menu configuration
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+  weight = 1
+
+[[menu.main]]
+  identifier = 'posts'
+  name = 'Blog'
+  url = '/posts/'
+  weight = 2
+
+[[menu.main]]
+  identifier = 'contact'
+  name = 'Contact'
+  url = '/contact/'
+  weight = 3
+
+# Enable tags and categories
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+# Markup configuration
+[markup]
+  [markup.highlight]
+    lineNos = true
